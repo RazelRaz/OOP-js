@@ -1,3 +1,4 @@
+// object Literal
 let person = {
     first_name: 'john',
     last_name: 'doe',
