@@ -1,0 +1,7 @@
+Object:
+An Object is an unique entity that contains properties like
+> variable type properties
+> methods
+> Object
+> array
+and more
