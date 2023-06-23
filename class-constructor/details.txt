@@ -1,0 +1,4 @@
+class constructor is a magic method
+> constructor execute aumatically when object is created
+> constructor can take parameter
+> constructor method cant return any result
