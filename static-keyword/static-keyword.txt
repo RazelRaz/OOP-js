@@ -1,0 +1,5 @@
+Static KeyWord
+> Static KeyWord is use to define a static method or property of a class
+> To Call the static mathod we do not create an instance or object of the class
+> We create a static variable in javascript to prevent replication
+> Fixed Configuration and it is also useful for caches
