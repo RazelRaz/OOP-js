@@ -1,0 +1,6 @@
+Abstraction
+
+> keyword 'abstract' use for class abstraction
+> you cant create object for abstract class
+> abstract class always needs its inherited child class to perform
+> Js doesnt have built in support for abstract
