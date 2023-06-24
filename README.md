@@ -19,3 +19,4 @@ let person = {
 }
 
 console.log(person.getName());
+
