@@ -2,21 +2,14 @@
 
 This repository contains a complete guide to JavaScript Object-Oriented Programming (OOP) concepts. It covers the following topics:
 
-## 1. JavaScript Object
+1. JavaScript Object
+2. Class & Object
+3. Constructor
+4. Static Keyword
+5. Inheritance
+6. Overriding
+7. Method Overloading
+8. Polymorphism
+9. Abstraction
 
-An Object is a unique entity that contains properties such as variable type properties, method properties, object properties, array properties, and more.
-
-```javascript
-let person = {
-    // Properties
-    first_name: 'John',
-    last_name: 'Dee',
-    
-    // Method
-    getName: () => {
-        return `The name of the person is ${person.first_name} ${person.last_name}`;
-    }
-}
-
-console.log(person.getName());
-
+Thank You
