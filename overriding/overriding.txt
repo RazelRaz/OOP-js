@@ -1,0 +1,3 @@
+Property overriding
+> overriding works for inheritance relationship
+> when child class change his parent properties, that is overriding
