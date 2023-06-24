@@ -20,7 +20,7 @@ let person = {
     }
 }
 console.log(person.getName());
-
+```javascript
 
 ## 2. Class & Object
 
