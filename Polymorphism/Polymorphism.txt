@@ -1,0 +1,4 @@
+Polymorphism 
+
+> The Polymorphism is a core concept of an object-oriented paradigm that provies a way to perform a single action in different form.
+> inheritance, overriding, overloading - those concepts together represents Polymorphism
